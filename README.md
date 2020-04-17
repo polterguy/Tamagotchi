@@ -11,6 +11,11 @@ A microscopic Tamagotchi implementation that features the following.
 The actual Tamagotchi library (important parts), are implemented as a .Net Standard library, while the _"GUI"_ is a simple
 .Net Core 3.0 Console Application.
 
+<p align="center">
+<img alt="A microscopic Tamagotchi implementation for .Net Core" title="A microscopic Tamagotchi implementation for .Net Core" src="https://servergardens.files.wordpress.com/2020/04/tamagotchi-screenshot.png" />
+</p>
+
+
 ## Building
 
 Should build easily with .Net Core CLI (Command Line Interface) by using e.g. `dotnet run` or something equivalent, even
