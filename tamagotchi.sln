@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tm.lib", "tm.lib\tm.lib.csproj", "{7E60E9A1-5569-4749-8708-93475829F33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tm.ui", "tm.ui\tm.ui.csproj", "{443C1460-F248-4490-AC38-12EB62ADAE61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E843D6E7-3919-4A9B-976F-C872CF9A0996}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E60E9A1-5569-4749-8708-93475829F33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E60E9A1-5569-4749-8708-93475829F33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E60E9A1-5569-4749-8708-93475829F33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E60E9A1-5569-4749-8708-93475829F33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443C1460-F248-4490-AC38-12EB62ADAE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443C1460-F248-4490-AC38-12EB62ADAE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443C1460-F248-4490-AC38-12EB62ADAE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443C1460-F248-4490-AC38-12EB62ADAE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
